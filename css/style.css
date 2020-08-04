@@ -1,0 +1,27 @@
+@media (max-width: 800px) {
+    h1 {
+      background-color: red;
+    }
+}
+
+#welcome-section{
+    height: 100%;
+}
+
+#navbar {
+    position: fixed;
+    z-index: 999;
+}
+
+div {
+    position: relative;
+    z-index: 99;
+}
+
+html, body {
+   height: 100%;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+   position: relative;
+}
